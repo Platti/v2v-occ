@@ -3,7 +3,7 @@
 
 This repository contains the source code used for the evaluation of the vehicle-to-vehicle (V2V) optical camera communications (OCC) system proposed in the journal article "A Security Protocol for Vehicle Platoon Verification using Optical Camera Communications" in "IEEE Transactions on Intelligent Transportation Systems".
 
-The article is currently under review.
+The article is available here: https://doi.org/10.1109/TITS.2024.3390393
 
 ---
 
